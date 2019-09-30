@@ -1,1 +1,1 @@
-- "Servo Cantiere.ino" è uno sketch Arduino - la pressione di tre tasti in simultanea aziona due servomotoripartenza
+- "Servo Cantiere.ino" è uno sketch Arduino - la pressione di tre tasti in simultanea aziona due servomotori
