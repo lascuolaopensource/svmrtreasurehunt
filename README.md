@@ -63,7 +63,7 @@ Please insert new issues if you find something, as per now there are no known bu
 ***
 ## :heart_eyes: Acknowledgements
 
-Copyright :copyright: 2019 by [XYZ lascuolaopensource](https://www.lascuolaopensource.xyz), Bari
+Copyright :copyright: 2019 by [XYZ lascuolaopensource](http://www.lascuolaopensource.xyz/), Bari
 
 Designed, written and maintained by **Y TEAM**.
 
@@ -73,11 +73,11 @@ Special thanks to X and Z for their special contributions.
 ***
 ## :globe_with_meridians: Links
 
-https://www.lascuolaopensource.xyz
+http://www.lascuolaopensource.xyz
 
 http://www.lascuolaopensource.xyz/xyz-exfadda
 
-https://www.santuvitumia.it
+http://www.santuvitumia.it
 
 
 ***
