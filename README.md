@@ -93,7 +93,7 @@ http://www.santuvitumia.it
 
 ***
 ## :briefcase: License
-    SVMR GAME
+    SVMR TREASURE HUNT
     Copyright (c) 2019 XYZ lascuolaopensource, Bari
 
     This program is free software: you can redistribute it and/or modify
